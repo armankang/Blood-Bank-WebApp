@@ -1,14 +1,9 @@
 # Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
+Complete mern stack blood bank project with source code.
 
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
-
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
-
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
+• Blood Bank web application using MongoDB, ExpressJS, React and NodeJs i.e MERN.
+• Description - Single page web application with a smooth interface where people can manage blood donation related data using the web application.
+• Functionality - User Authentication, Admin Panel, CRUD Operations.
 
 
 
